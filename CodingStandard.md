@@ -8,6 +8,8 @@
 
 - If you need to work on a PBI which seems to span across multiple domains, before you jump into the implementation, go amd have a chat with other teams responsible for those other domains, they can provide you invaluable inputs and make your life easier.
 
+- Every developer must reply "That's what she said" to any sort of innuendo, regardless to the seniority/gender of the people he/she is talking to.
+
 ## Coding Patterns
 
 - Code against an interface when possible (Remeber to register your concrete implementation)
